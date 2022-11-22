@@ -1,1 +1,2 @@
 # CRtoolbox
+Debugged version of orginal CRToolbox for Matlab developped by [Diener](https://github.com/julien-diener]). Original version was developped in ANR project [Chène-Roseau](https://sites.google.com/site/crtoolbox/). Validation was performed in [Barbacci et al. 2014](https://www.sciencedirect.com/science/article/pii/S0168192313002712). New version was used in [Léger et al.](https://www.biorxiv.org/content/10.1101/2021.10.18.464859v1) to estimate strain field caused by fungi in plant tissue.
